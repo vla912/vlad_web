@@ -1,0 +1,112 @@
+	body {
+		background-color: #ffffff;
+	}
+
+.header_photo{
+	position: absolute;
+	width: 1440px;
+	height: 180px;
+	left: 40px;
+	top: 0px;
+
+
+	background: url(.png), #C4C4C4;
+}
+
+.kinds_o{
+	position: absolute;
+	width: 292px;
+	height: 507.93px;
+	left: 224px;
+	top: 225px;
+
+	background: url(.jpg), #C4C4C4;
+}
+
+.kinds_tw{
+	position: absolute;
+	width: 292px;
+	height: 507.93px;
+	left: 573px;
+	top: 225px;
+
+	background: url(.jpg), #C4C4C4;
+}
+
+.kinds_thr{
+	position: absolute;
+	width: 292px;
+	height: 507.93px;
+	left: 946px;
+	top: 225px;
+
+	background: url(.jpg), #C4C4C4;
+	
+}
+
+.text_kinds{
+	position: absolute;
+	width: 307px;
+	height: 38.33px;
+	top: 730px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+
+	color: #DC587E;
+	
+}
+
+.text_kinds_o{
+	left: 209px;
+	
+}
+
+.text_kinds_tw{
+	left: 558px;
+	
+}
+
+.text_kinds_thr{
+	left: 946px;
+	
+}
+
+.buy_but{
+	position: absolute;
+	width: 160px;
+	height: 64.35px;
+	top: 810px;
+	position: absolute;
+	background: #90AA99;
+	border-radius: 20px;
+	border-color: inherit;
+}
+
+.buy_but_o{
+	left: 282px;
+}
+.buy_but_tw{
+	left: 631px;
+}
+.buy_but_thr{
+	left: 1019px;
+}
+.buy_text{
+	position: absolute;
+	left: 23.12%;
+	right: 27.5%;
+	top: -10px;
+	bottom: 19.15%;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+
+	color: #dc587e;
+}
